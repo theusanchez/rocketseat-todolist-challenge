@@ -1,0 +1,22 @@
+.headerContent {
+    display: flex;
+    flex-direction: row;
+    height: 12.5rem;
+    background-color: var(--gray-700);
+    align-items: center;
+    justify-content: center;
+}
+.headerContent h1 {
+    color: var(--blue-500);
+    font-size: 2.5rem;
+    padding-bottom: 0.9rem;
+    padding-left: 0.75rem;
+}
+.headerContent h1 span {
+    color: var(--purple-700);
+}
+
+.rocketLogo{
+    width: 2.25rem;
+    height: 1.375rem;
+}

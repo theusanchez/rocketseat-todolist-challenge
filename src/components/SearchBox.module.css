@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    justify-content: center;
+}
+.searchBox {
+    height: 3.375rem;
+    width: 638px;
+    background-color: var(--gray-500);
+    border-radius: 8px;
+    border: 0px;
+}
+.searchBox button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
